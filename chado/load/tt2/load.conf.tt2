@@ -43,7 +43,7 @@
   <!-- ontologies -->
   <!--            -->
   <ontology name="Relationship Ontology" order="1">
-    <file type="obo"    local="obo/OBO_REL/ro.obo" remote="http://www.obofoundry.org/ro/ro.obo" method="lwp-mirror"/>
+    <file type="obo"    local="obo/OBO_REL/ro.obo" remote="http://purl.obolibrary.org/obo/ro.obo" method="lwp-mirror"/>
   </ontology>
 
 
